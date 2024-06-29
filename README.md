@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahmut Gündüz</h1>
-<h3 align="center">Üçüncü sınıf Yönetim Bilişim Sistemleri öğrencisi olan Mahmut Gündüz, 3 yıldır mobil uygulama geliştiriyor ve Java ile Kotlin biliyor. İngilizce konuşma becerisini B1 seviyesine getirmeyi hedefliyor</h3>
+<h3 align="center">I am a third-year Management Information Systems student at Düzce University. I have been developing mobile applications for 3 years and am proficient in Java and Kotlin. I aim to improve my English speaking skills to a B1 level.</h3>
 
 - 📫 How to reach me **mahmutgundzz@gmail.com**
 
